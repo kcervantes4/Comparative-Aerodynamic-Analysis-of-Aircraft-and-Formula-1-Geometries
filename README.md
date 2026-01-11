@@ -66,7 +66,7 @@ Assumptions:
 - Low aspect ratio and aggressive angles of attack enable high downforce at the cost of drag
   
 ## MATLAB Analysis
-[aero_comparison.m](aero_comparison.m)
+[aero_comparison.m](matlab/aero_comparison.m)
 
 ## Full Report
 A detailed report with complete methodology, results, and discussion is available here:
