@@ -15,15 +15,15 @@ Wing geometries were modeled in SolidWorks and analyzed using simplified aerodyn
 - High aspect ratio
 - Optimized for aerodynamic efficiency
 
-![Aircraft Wing Geometry (PDF)](aircraft_wing.pdf)
+![Aircraft Wing Geometry (PDF)](geometry/aircraft_wing.pdf)
 
 ### Formula 1 Wings
 - Airfoil: NACA 0012 (symmetric)
 - Low aspect ratio
 - Optimized for downforce generation
 
-![F1 Front Wing (PDF)](f1_front_wing.pdf)
-![F1 Rear Wing (PDF)](f1_rear_wing.pdf)
+![F1 Front Wing (PDF)](geometry/f1_front_wing.pdf)
+![F1 Rear Wing (PDF)](geometry/f1_rear_wing.pdf)
 
 
 ## Aerodynamic Modeling (MATLAB)
