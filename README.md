@@ -48,13 +48,13 @@ Assumptions:
 - Rear wing produces greater force magnitude
 
 ### Aerodynamic Efficiency Comparison
-![Efficiency Comparison](efficiency_comparison.png)
+![Efficiency Comparison](figures/efficiency_comparison.png)
 
 - Aircraft wing achieves significantly higher efficiency (L/D)
 - F1 wings sacrifice efficiency to generate force
 
 ### Aspect Ratio Sensitivity
-![AR Sensitivity](ar_sensitivity.png)
+![AR Sensitivity](figures/ar_sensitivity.png)
 
 - Increasing aspect ratio improves lift-to-drag ratio
 - Confirms dominant influence of wing geometry
