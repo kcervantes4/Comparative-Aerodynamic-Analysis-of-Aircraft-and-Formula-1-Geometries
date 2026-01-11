@@ -41,7 +41,7 @@ Assumptions:
 
 ## Results
 ### Lift / Downforce vs Angle of Attack
-![Lift vs AoA](lift_vs_aoa.png)
+![Lift vs AoA](figures/lift_vs_aoa.png)
 
 - Aircraft wing generates positive lift
 - F1 wings generate negative lift (downforce)
