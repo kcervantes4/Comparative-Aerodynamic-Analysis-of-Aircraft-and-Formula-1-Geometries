@@ -70,7 +70,7 @@ Assumptions:
 
 ## Full Report
 A detailed report with complete methodology, results, and discussion is available here:
-[Aircraft vs F1 Aerodynamic Report](report/aircraft_vs_f1_aero_report.pdf)
+[Full Project Report (PDF)](aircraft_vs_f1_aero_report.pdf)
 
 ## Tools Used
 - SolidWorks (CAD)
