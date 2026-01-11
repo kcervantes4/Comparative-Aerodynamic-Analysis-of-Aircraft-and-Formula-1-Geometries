@@ -41,20 +41,20 @@ Assumptions:
 
 ## Results
 ### Lift / Downforce vs Angle of Attack
-![Lift vs AoA](figures/plots/lift_vs_aoa.png)
+![Lift vs AoA](lift_vs_aoa.png)
 
 - Aircraft wing generates positive lift
 - F1 wings generate negative lift (downforce)
 - Rear wing produces greater force magnitude
 
 ### Aerodynamic Efficiency Comparison
-![Efficiency Comparison](figures/plots/efficiency_comparison.png)
+![Efficiency Comparison](efficiency_comparison.png)
 
 - Aircraft wing achieves significantly higher efficiency (L/D)
 - F1 wings sacrifice efficiency to generate force
 
 ### Aspect Ratio Sensitivity
-![AR Sensitivity](figures/plots/ar_sensitivity.png)
+![AR Sensitivity](ar_sensitivity.png)
 
 - Increasing aspect ratio improves lift-to-drag ratio
 - Confirms dominant influence of wing geometry
